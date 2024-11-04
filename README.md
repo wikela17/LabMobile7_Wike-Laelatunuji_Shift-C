@@ -37,3 +37,10 @@ Penjelasan cara kerja login dalam aplikasi Ionic 8 dengan Angular:
 4. Jika gagal, notifikasi ditampilkan.
 
 Pendekatan ini mencakup autentikasi berbasis token untuk menjaga sesi pengguna, validasi input, dan proteksi rute menggunakan Angular Guards.
+
+Tampilan Halaman:
+
+![Screenshot 2024-11-04 132050](https://github.com/user-attachments/assets/9ee1511a-d551-44b6-a0c8-e9062d30dedd)
+![Screenshot 2024-11-04 132110](https://github.com/user-attachments/assets/cada121e-213e-4497-89aa-70ae7946c311)
+
+T
